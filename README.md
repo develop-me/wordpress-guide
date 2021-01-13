@@ -12,6 +12,7 @@ The WordPress community is absolutely amazing. There are usually tons of free ev
 - [How to learn WordPress free in a week](https://www.wpbeginner.com/beginners-guide/how-to-learn-wordpress-for-free-in-a-week-or-less/)
 - [WordPress Development for Beginners](https://premium.wpmudev.org/blog/wordpress-development-beginners-getting-started/): bit more code focussed (and WPMUDEV is a great source for WP resources generally)
 - [WordPress TV](https://wordpress.tv/)
+- [How to Build WordPress Themes from Scratch](https://wptavern.com/ask-the-bartender-how-to-build-wordpress-themes-from-scratch)
 
 ## WordPress News
 
